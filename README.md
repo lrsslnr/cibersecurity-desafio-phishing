@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./VirtualBox_Kali_13_10_2024_15_35_55.png)
+![Alt text](./VirtualBox_Kali2_14_10_2024_14_17_15.png)
