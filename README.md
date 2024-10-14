@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./[passwd.png](https://github.com/lrsslnr/cibersecurity-desafio-phishing/blob/master/VirtualBox_Kali_13_10_2024_15_35_55.png) "Resultado da atividade prática")
+![Alt text](./VirtualBox_Kali_13_10_2024_15_35_55.png) "Resultado da atividade prática")
